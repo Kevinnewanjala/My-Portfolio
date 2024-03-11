@@ -1,0 +1,47 @@
+
+body{
+    background-color: #f0f0f0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: large;
+}
+
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    font-style: calc();
+}
+
+footer{
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+#about-me, #hobbies, #image, #spirit-animal{ 
+margin: 20px;
+padding: 40px;
+background-color: lightgoldenrodyellow;
+border: 1px solid #333;
+line-height: 3em;
+font-style: normal;
+font-weight: 700;
+text-align: justify;
+font-size: larger;
+}
+
+
+h2{
+    color: blue;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-decoration: underline black;
+    font-size: larger;
+    text-align: center;
+}
